@@ -7,12 +7,15 @@
 
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="React JS" height="40px" width="40" src="https://img.icons8.com/color/256/react-native.png" />
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SASS" height="40px" width="40" src="https://img.icons8.com/color/344/sass-avatar.png" />
   <img align="center" alt="BOOTSRAP" height="40px" width="40" src="https://img.icons8.com/color/344/bootstrap.png" />
   <img align="center" alt="GIT" height="40px" width="40" src="https://img.icons8.com/color/344/git.png" />
+  <img align="center" alt="PHP" height="40px" width="40" src="https://img.icons8.com/officel/256/php-logo.png" />
+  <img align="center" alt="Wordpress" height="40px" width="40" src="https://img.icons8.com/color/256/wordpress.png" />
 </div>
  
  <br>
